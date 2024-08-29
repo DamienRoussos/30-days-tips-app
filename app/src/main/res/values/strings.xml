@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">30 Days of Mindfulness and Stress Management</string>
+
+    <string name="day1">Day 1</string>
+    <string name="day1title">Start Your Day with Gratitude</string>
+    <string name="day1description">Begin each morning by listing three things you\'re grateful for. This simple practice sets a positive tone for the day and shifts your focus from what’s wrong to what’s right.</string>
+
+    <string name="day2">Day 2</string>
+    <string name="day2title">Practice Deep Breathing</string>
+    <string name="day2description">Spend 5 minutes practicing deep, diaphragmatic breathing to calm your mind. Inhale deeply through your nose, hold for a moment, and exhale slowly; this can help reduce stress and anxiety instantly.</string>
+
+    <string name="day3">Day 3</string>
+    <string name="day3title">Create a Daily Meditation Routine</string>
+    <string name="day3description">Set aside 10 minutes each day for meditation. Find a quiet space, close your eyes, and focus on your breath or a mantra. Regular practice can help you manage stress better and improve mental clarity.</string>
+
+    <string name="day4">Day 4</string>
+    <string name="day4title">Stay Hydrated</string>
+    <string name="day4description">Drinking at least 8 glasses of water a day keeps your body and mind refreshed. Dehydration can lead to fatigue and increased stress, so keep a water bottle handy throughout the day.</string>
+
+    <string name="day5">Day 5</string>
+    <string name="day5title">Take Regular Breaks</string>
+    <string name="day5description">Every hour, take a 5-minute break to stretch and relax your mind. Short breaks can help you stay focused and prevent burnout during long work or study sessions.</string>
+
+    <string name="day6">Day 6</string>
+    <string name="day6title">Focus on One Task at a Time</string>
+    <string name="day6description">Multitasking can increase stress and reduce productivity. Instead, focus on one task at a time, giving it your full attention before moving on to the next.</string>
+
+    <string name="day7">Day 7</string>
+    <string name="day7title">Practice Mindful Eating</string>
+    <string name="day7description">Pay attention to the taste, texture, and smell of your food as you eat. Eating mindfully can improve digestion and help you appreciate your meals more, reducing stress around eating habits.</string>
+
+    <string name="day8">Day 8</string>
+    <string name="day8title">Spend Time in Nature</string>
+    <string name="day8description">Take a walk in a park or spend time in your garden. Being in nature can significantly reduce stress levels and improve your overall well-being.</string>
+
+    <string name="day9">Day 9</string>
+    <string name="day9title">Limit Screen Time</string>
+    <string name="day9description">Reduce the amount of time you spend on your phone, computer, or TV. Too much screen time can increase stress and anxiety, so make time for offline activities.</string>
+
+    <string name="day10">Day 10</string>
+    <string name="day10title">Practice Self-Compassion</string>
+    <string name="day10description">Be kind to yourself, especially during tough times. Treat yourself with the same compassion you would offer a friend, recognizing that everyone makes mistakes and faces challenges.</string>
+
+    <string name="day11">Day 11</string>
+    <string name="day11title">Establish a Bedtime Routine</string>
+    <string name="day11description">Wind down with a calming routine before bed, like reading or taking a warm bath. Good sleep is crucial for stress management, so aim for 78 hours of restful sleep each night.</string>
+
+    <string name="day12">Day 12</string>
+    <string name="day12title">Use a Journal to Express Your Thoughts</string>
+    <string name="day12description">Writing down your thoughts and feelings in a journal can be a great way to process emotions. It helps to clear your mind, reduce stress, and gain perspective on any challenges you’re facing.</string>
+
+    <string name="day13">Day 13</string>
+    <string name="day13title">Practice Mindful Listening</string>
+    <string name="day13description">When conversing, give the other person your full attention without planning your response. Mindful listening can improve your relationships and reduce misunderstandings, which are often sources of stress.</string>
+
+    <string name="day14">Day 14</string>
+    <string name="day14title">Set Boundaries</string>
+    <string name="day14description">Learn to say no to commitments that don’t align with your priorities. Setting healthy boundaries is key to managing stress and maintaining balance in your life.</string>
+
+    <string name="day15">Day 15</string>
+    <string name="day15title">Exercise Regularly</string>
+    <string name="day15description">Engage in physical activity that you enjoy, such as walking, yoga, or dancing. Regular exercise releases endorphins, which are natural stress relievers.</string>
+
+    <string name="day16">Day 16</string>
+    <string name="day16title">Declutter Your Space</string>
+    <string name="day16description">A tidy and organized environment can help reduce stress and increase focus. Spend a few minutes each day decluttering your space to create a more peaceful atmosphere.</string>
+
+    <string name="day17">Day 17</string>
+    <string name="day17title">Practice Progressive Muscle Relaxation</string>
+    <string name="day17description">Tense and then slowly release each muscle group in your body, starting from your toes and working up to your head. This technique can help release physical tension and reduce stress.</string>
+
+    <string name="day18">Day 18</string>
+    <string name="day18title">Cultivate Positive Relationships</string>
+    <string name="day18description">Surround yourself with supportive and positive people. Healthy relationships provide emotional support and can help buffer the effects of stress.</string>
+
+    <string name="day19">Day 19</string>
+    <string name="day19title">Engage in Creative Activities</string>
+    <string name="day19description">Spend time on hobbies or creative activities like painting, writing, or playing music. These activities can be therapeutic and provide a healthy outlet for stress.</string>
+
+    <string name="day20">Day 20</string>
+    <string name="day20title">Limit Caffeine and Sugar Intake</string>
+    <string name="day20description">Reducing caffeine and sugar can help stabilize your mood and energy levels. Too much of either can lead to jitters and increased anxiety, so opt for balanced meals and herbal teas instead.</string>
+
+    <string name="day21">Day 21</string>
+    <string name="day21title">Practice Mindful Walking</string>
+    <string name="day21description">When walking, focus on the sensation of your feet touching the ground and the rhythm of your breath. This practice can turn a simple walk into a meditative experience that calms your mind.</string>
+
+    <string name="day22">Day 22</string>
+    <string name="day22title">Use Aromatherapy</string>
+    <string name="day22description">Incorporate calming scents like lavender or chamomile into your environment. Aromatherapy can help reduce stress and promote relaxation.</string>
+
+    <string name="day23">Day 23</string>
+    <string name="day23title">Focus on What You Can Control</string>
+    <string name="day23description">Accept that some things are beyond your control and focus your energy on what you can change. Letting go of the uncontrollable can reduce unnecessary stress.</string>
+
+    <string name="day24">Day 24</string>
+    <string name="day24title">Take Time for Self-Care</string>
+    <string name="day24description">Make self-care a priority by setting aside time each week for activities that rejuvenate you, like a spa day, reading a good book, or simply relaxing.</string>
+
+    <string name="day25">Day 25</string>
+    <string name="day25title">Practice Gratitude Throughout the Day</string>
+    <string name="day25description">Beyond starting your day with gratitude, practice it throughout the day. Acknowledge small moments of joy or success, which can help keep stress in check.</string>
+
+    <string name="day26">Day 26</string>
+    <string name="day26title">Limit News Consumption</string>
+    <string name="day26description">Stay informed, but don’t overwhelm yourself with constant news updates. Too much negative news can increase anxiety, so find a balance that works for you.</string>
+
+    <string name="day27">Day 27</string>
+    <string name="day27title">Develop a Mindfulness Routine</string>
+    <string name="day27description">Incorporate mindfulness into your daily routine, whether it’s through meditation, mindful eating, or simply being present in the moment. Regular practice can significantly reduce stress.</string>
+
+    <string name="day28">Day 28</string>
+    <string name="day28title">Learn to Let Go</string>
+    <string name="day28description">Practice letting go of grudges, past mistakes, or unrealistic expectations. Holding on to these things only adds to stress; letting go can free up mental space for positivity.</string>
+
+    <string name="day29">Day 29</string>
+    <string name="day29title">Engage in Regular Social Interactions</string>
+    <string name="day29description">Spend time with friends, family, or colleagues. Positive social interactions can reduce feelings of isolation and provide emotional support, which is crucial for managing stress.</string>
+
+    <string name="day30">Day 30</string>
+    <string name="day30title">End Your Day with Reflection</string>
+    <string name="day30description">Before bed, take a few minutes to reflect on your day. Acknowledge what went well and what you can improve, then let go of any lingering stress to ensure a restful night’s sleep.</string>
+
+</resources>
